@@ -1,0 +1,20 @@
+{
+  "baseline": {
+    "errors": 0,
+    "failures": 0,
+    "passed": true,
+    "tests": 9
+  },
+  "ignore_forbidden_destinations": {
+    "errors": 0,
+    "failures": 5,
+    "passed": false,
+    "tests": 9
+  },
+  "reject_all_completed_actions": {
+    "errors": 0,
+    "failures": 10,
+    "passed": false,
+    "tests": 9
+  }
+}
